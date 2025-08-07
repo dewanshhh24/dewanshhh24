@@ -45,6 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dewanshhh24&show_icons=true&theme=radical" alt="GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshhh24&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dewanshhh24&label=Profile+Views&color=blueviolet&style=flat" alt="views" /></p>
 
 
 ---
