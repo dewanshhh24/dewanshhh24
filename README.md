@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Dewansh Warjurkar</h1>
+<h1 align="center">Hii 👋, I'm Dewansh Warjurkar</h1>
 <h3 align="center">🚀 AIML Student | 💻 Web Developer | 📸 Photographer | 🌍 Open Source Contributor</h3>
 
 <p align="center">
