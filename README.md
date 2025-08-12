@@ -13,8 +13,8 @@
 
 ## 🧠 About Me
 
-- 🧑‍💻 <b>Name</b> : Dewansh Prakash Warjurkar
-- 🔭 <b>Working on</b> : Personal Portfolio Website (Next.js)
+- 🧑‍💻 <b>Name</b> : Dewansh Warjurkar
+- 🔭 <b>Working on</b> : Personal Portfolio Website and GSSoC'25 Open Source Contributions
 - 🌱 <b>Learning</b> : Java DSA, Typescript, Springboot, ML
 - 🤝 <b>Open to</b> : Collaborations in Web Dev, Java and AI/ML
 - 💬 <b>Ask me about</b> : Web Dev, Java, Git, ML Models
