@@ -21,6 +21,7 @@
 - 📸 <b>Fun Fact</b> : I run a secret Insta page as a digital photo album 😉
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,js,nextjs,react,ts,tailwind,git" /> </p>
