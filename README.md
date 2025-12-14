@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 🧑‍💻 <b>Name</b> : Dewansh Warjurkar
-- 🔭 <b>Working on</b> : Personal Portfolio Website and GSSoC'25 Open Source Contributions
+- 🔭 <b>Working on</b> : Machine Learning and Springboot Development
 - 🌱 <b>Learning</b> : Java DSA, Typescript, Springboot, Machine Learning
 - 🤝 <b>Open to</b> : Collaborations in Web Dev, Java and AI/ML
 - 💬 <b>Ask me about</b> : Web Dev, Java, Python, Git, ML Models
