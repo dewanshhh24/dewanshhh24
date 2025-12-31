@@ -49,21 +49,28 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewanshhh24&theme=radical&margin-w=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=dewanshhh24&theme=radical&margin-w=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewanshhh24&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshhh24&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dewanshhh24&show_icons=true&theme=radical&cache_seconds=86400"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshhh24&layout=compact&theme=radical&cache_seconds=86400"
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dewanshhh24&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
 
 ---
 
